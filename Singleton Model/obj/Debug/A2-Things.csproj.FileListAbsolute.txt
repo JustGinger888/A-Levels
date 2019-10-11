@@ -1,0 +1,23 @@
+D:\Store\!Active File\Documents\Dropbox\2. Repos\A2-Things\bin\Debug\A2-Things.exe.config
+D:\Store\!Active File\Documents\Dropbox\2. Repos\A2-Things\bin\Debug\A2-Things.exe
+D:\Store\!Active File\Documents\Dropbox\2. Repos\A2-Things\bin\Debug\A2-Things.pdb
+D:\Store\!Active File\Documents\Dropbox\2. Repos\A2-Things\obj\Debug\A2_Things.Form1.resources
+D:\Store\!Active File\Documents\Dropbox\2. Repos\A2-Things\obj\Debug\A2_Things.Form2.resources
+D:\Store\!Active File\Documents\Dropbox\2. Repos\A2-Things\obj\Debug\A2_Things.Properties.Resources.resources
+D:\Store\!Active File\Documents\Dropbox\2. Repos\A2-Things\obj\Debug\A2-Things.csproj.GenerateResource.cache
+D:\Store\!Active File\Documents\Dropbox\2. Repos\A2-Things\obj\Debug\A2-Things.csproj.CoreCompileInputs.cache
+D:\Store\!Active File\Documents\Dropbox\2. Repos\A2-Things\obj\Debug\A2-Things.exe
+D:\Store\!Active File\Documents\Dropbox\2. Repos\A2-Things\obj\Debug\A2-Things.pdb
+D:\Store\!Active File\Documents\Dropbox\2. Repos\A2-Things\obj\Debug\A2_Things.Form3.resources
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\bin\Debug\A2-Things.exe.config
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\bin\Debug\A2-Things.exe
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\bin\Debug\A2-Things.pdb
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\obj\Debug\A2-Things.csprojAssemblyReference.cache
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\obj\Debug\A2_Things.Form1.resources
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\obj\Debug\A2_Things.Form2.resources
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\obj\Debug\A2_Things.Form3.resources
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\obj\Debug\A2_Things.Properties.Resources.resources
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\obj\Debug\A2-Things.csproj.GenerateResource.cache
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\obj\Debug\A2-Things.csproj.CoreCompileInputs.cache
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\obj\Debug\A2-Things.exe
+C:\Users\lean.kane\Dropbox\2. Repos\A2-Things\obj\Debug\A2-Things.pdb

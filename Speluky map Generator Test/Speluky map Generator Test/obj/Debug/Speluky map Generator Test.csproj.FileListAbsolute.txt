@@ -1,0 +1,7 @@
+C:\Users\ethan\Documents\Speluky map Generator Test\Speluky map Generator Test\bin\Debug\Speluky map Generator Test.exe.config
+C:\Users\ethan\Documents\Speluky map Generator Test\Speluky map Generator Test\bin\Debug\Speluky map Generator Test.exe
+C:\Users\ethan\Documents\Speluky map Generator Test\Speluky map Generator Test\bin\Debug\Speluky map Generator Test.pdb
+C:\Users\ethan\Documents\Speluky map Generator Test\Speluky map Generator Test\obj\Debug\Speluky map Generator Test.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\Speluky map Generator Test\Speluky map Generator Test\obj\Debug\Speluky map Generator Test.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\Speluky map Generator Test\Speluky map Generator Test\obj\Debug\Speluky map Generator Test.exe
+C:\Users\ethan\Documents\Speluky map Generator Test\Speluky map Generator Test\obj\Debug\Speluky map Generator Test.pdb
