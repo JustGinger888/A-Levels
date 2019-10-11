@@ -1,0 +1,7 @@
+C:\Users\ethan\Documents\ASTAR TEST\ASTAR TEST\bin\Debug\ASTAR TEST.exe.config
+C:\Users\ethan\Documents\ASTAR TEST\ASTAR TEST\bin\Debug\ASTAR TEST.exe
+C:\Users\ethan\Documents\ASTAR TEST\ASTAR TEST\bin\Debug\ASTAR TEST.pdb
+C:\Users\ethan\Documents\ASTAR TEST\ASTAR TEST\obj\Debug\ASTAR TEST.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\ASTAR TEST\ASTAR TEST\obj\Debug\ASTAR TEST.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\ASTAR TEST\ASTAR TEST\obj\Debug\ASTAR TEST.exe
+C:\Users\ethan\Documents\ASTAR TEST\ASTAR TEST\obj\Debug\ASTAR TEST.pdb

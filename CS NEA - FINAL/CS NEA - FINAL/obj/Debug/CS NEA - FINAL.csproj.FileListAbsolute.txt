@@ -1,0 +1,10 @@
+C:\Users\ethan\Documents\CS NEA - FINAL\CS NEA - FINAL\bin\Debug\CS NEA - FINAL.exe.config
+C:\Users\ethan\Documents\CS NEA - FINAL\CS NEA - FINAL\bin\Debug\CS NEA - FINAL.exe
+C:\Users\ethan\Documents\CS NEA - FINAL\CS NEA - FINAL\bin\Debug\CS NEA - FINAL.pdb
+C:\Users\ethan\Documents\CS NEA - FINAL\CS NEA - FINAL\obj\Debug\CS NEA - FINAL.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\CS NEA - FINAL\CS NEA - FINAL\obj\Debug\CS_NEA___FINAL.Form1.resources
+C:\Users\ethan\Documents\CS NEA - FINAL\CS NEA - FINAL\obj\Debug\CS_NEA___FINAL.Properties.Resources.resources
+C:\Users\ethan\Documents\CS NEA - FINAL\CS NEA - FINAL\obj\Debug\CS NEA - FINAL.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\CS NEA - FINAL\CS NEA - FINAL\obj\Debug\CS NEA - FINAL.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\CS NEA - FINAL\CS NEA - FINAL\obj\Debug\CS NEA - FINAL.exe
+C:\Users\ethan\Documents\CS NEA - FINAL\CS NEA - FINAL\obj\Debug\CS NEA - FINAL.pdb
