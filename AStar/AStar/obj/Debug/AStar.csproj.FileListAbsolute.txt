@@ -5,3 +5,10 @@ C:\Users\ethan\Documents\AStar\AStar\bin\Debug\AStar.exe
 C:\Users\ethan\Documents\AStar\AStar\bin\Debug\AStar.pdb
 C:\Users\ethan\Documents\AStar\AStar\obj\Debug\AStar.exe
 C:\Users\ethan\Documents\AStar\AStar\obj\Debug\AStar.pdb
+C:\Users\ethan\Documents\GitHub\A-Levels\AStar\AStar\bin\Debug\AStar.exe.config
+C:\Users\ethan\Documents\GitHub\A-Levels\AStar\AStar\bin\Debug\AStar.exe
+C:\Users\ethan\Documents\GitHub\A-Levels\AStar\AStar\bin\Debug\AStar.pdb
+C:\Users\ethan\Documents\GitHub\A-Levels\AStar\AStar\obj\Debug\AStar.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\A-Levels\AStar\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\A-Levels\AStar\AStar\obj\Debug\AStar.exe
+C:\Users\ethan\Documents\GitHub\A-Levels\AStar\AStar\obj\Debug\AStar.pdb
